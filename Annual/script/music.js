@@ -1,4 +1,4 @@
-alert("Click On Any Image to See magic 💌")
+alert("Click On Any Image to See magic 🎁")
 var backgroundSound = document.getElementById("bg-music");
 document.addEventListener("click", async () => {
     try {
